@@ -1,0 +1,16 @@
+
+
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 55px;
+    background-image: url(colorful-abstract-background.jpg);
+    background-position: center;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+}

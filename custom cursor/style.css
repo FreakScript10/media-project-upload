@@ -1,0 +1,32 @@
+body {
+    /* cursor: url('mouse-cursor-png-5a3a6731731823.6442092415137769454714.png'), auto; */
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container div{
+    background-color: rgb(122, 116, 116);
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.container{
+    margin-top: 80px;
+}
+
+.container div:hover{
+    background-color: rgb(122, 116, 116);
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    /* cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>😀</text></svg>") 16 0,auto; !emojicursor.app */
+    /* cursor: url("minecraft.svg; height=30px width=20px"); */
+   
+}
+
